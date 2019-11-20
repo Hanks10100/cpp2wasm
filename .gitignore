@@ -1,0 +1,11 @@
+.DS_Store
+.idea
+.project
+.pub
+.vscode
+.npm
+.eslintcache
+.yarn-integrity
+Thumbs.db
+node_modules
+package-lock.json
