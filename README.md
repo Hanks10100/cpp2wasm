@@ -1,6 +1,6 @@
 # 把 C/C++ 编译成 WebAssembly
 
-参考文章：[《从零开始把 C/C++ 编译成 WebAssembly》](https://www.atatech.org/articles/156083)
+参考文章：[《从零开始把 C/C++ 编译成 WebAssembly》]()
 
 ## 源代码
 
